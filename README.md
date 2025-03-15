@@ -59,7 +59,8 @@ Desenvolver um **banco de dados relacional** que atenda às necessidades do labo
 
 ```
 📂 Trabalho-Banco-De-Dados  
- ├── 📄 modelo_er.png           # Diagrama Entidade-Relacionamento  
+ ├── 📄 modelo_er.png           # Diagrama Entidade-Relacionamento
+ ├── 📄 consulta-extra.sql     # Script para cosulta personalizada 
  ├── 📄 criacao_tabelas.sql     # Script para criação das tabelas 
  ├── 📄 insercao_dados.sql      # Script para inserção de dados  
  ├── 📄 consultas_simples.sql   # Consultas SQL sem JOIN  
